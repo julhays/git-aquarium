@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I am a manta ray
+=======
+I am a manta ray
+>>>>>>> sea
